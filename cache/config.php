@@ -1,0 +1,37 @@
+<?php
+
+$irc_cfg['height'] = '450';
+$irc_cfg['width'] = '575';
+$irc_cfg['server1'] = 'irc.tokyo.wide.ad.jp';
+$irc_cfg['server2'] = 'irc.dti.ne.jp';
+$irc_cfg['server3'] = '';
+$irc_cfg['server4'] = '';
+$irc_cfg['server5'] = '';
+$irc_cfg['channel1'] = '#XOOPS:*.jp';
+$irc_cfg['channel2'] = '';
+$irc_cfg['channel3'] = '';
+$irc_cfg['channel4'] = '';
+$irc_cfg['channel5'] = '';
+$irc_cfg['deflang'] = 'japanese';
+$irc_cfg['popup'] = 'false';
+$irc_cfg['autoentry'] = 'true';
+$irc_cfg['list'] = 'false';
+$irc_cfg['setuptextcolor'] = '#683430';
+$irc_cfg['bgcolor'] = '#C0B868';
+$irc_cfg['setupbgcolor'] = '#D8D8B8';
+$irc_cfg['buttoncolor'] = '#D8D8B8';
+$irc_cfg['panelcolor'] = '#D8D8B8';
+$irc_cfg['bordercolor'] = '#B0B8C8';
+$irc_cfg['statusbgcolor'] = '#D8D8B8';
+$irc_cfg['smileys'] = 'images/smileys.gif';
+$irc_cfg['buttons'] = 'images/buttons.gif';
+$irc_cfg['logo'] = 'images/logo.gif';
+$irc_cfg['logourl'] = 'http://www.e-xoops.com';
+$irc_cfg['banner'] = 'images/banner.gif';
+$irc_cfg['bannerurl'] = 'http://www.e-xoops.com';
+$irc_cfg['files'] = 'true';
+$irc_cfg['type'] = 'normal';
+$irc_cfg['ident'] = 'Unix';
+$irc_cfg['encoding'] = 'iso-2022-jp';
+$irc_cfg['top'] = 'false';
+$irc_cfg['quit'] = 'Visit www.e-xoops.com';

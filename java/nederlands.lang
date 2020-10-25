@@ -1,0 +1,98 @@
+﻿" Commando onbekend", // 0
+"Geef de volgende informatie:", // 1
+"Schuilnaam:", // 2
+"Volledige naam:", // 3
+"Server:", // 4
+"OK", // 5
+"Annuleren", // 6
+"Geef uw nickname an volledige naam a.u.b..", // 7
+"Gebruik a.u.b. geen spaties in uw nickname.", // 8
+"Selecteer een server.", // 9
+"\n"+(char)3+"2*** Verbinden met ", // 10
+"\n"+(char)3+"3DCC Chat sessie", // 11
+"\nClient: ", // 12
+"\n"+(char)3+"4Chatsessie aanvragen...", // 13
+"\n"+(char)3+"4DCC Chat connectie tot stand gebracht", // 14
+"\n"+(char)3+"3Chat met ", // 15
+"\n"+(char)3+"4Wacht op akkoord...", // 16
+"\nConnectie geweigerd.", // 17
+"Kanaal (Optioneel):", // 18
+") komt binnen ", // 19
+") is vertrokken ", // 20
+" heeft IRC verlaten (", // 21
+" is nu bekend als ", // 22
+"Geef alle kanalen weer.", // 23
+"Bestand", // 24
+"Configuratie", // 25
+"Verlaten", // 26
+"Commando's", // 27
+"Help", // 28
+"Over", // 29
+" is gekicked door ", // 30
+" stelt de volgende mode in:", // 31
+"Gereedschappen", // 32
+"Typ een kanaal:", // 33
+"Verbinden met kanaal", // 34
+"Geef kanalen weer", // 35
+"Server wijzigen", // 36
+"Dubbelklik op een kanaal om te verbinden.", // 37
+"Meer dan", // 38
+"mensen in het kanaal.", // 39
+"Vernieuwen", // 40
+"Kanalen", // 41
+"\n"+(char)3+"2*** U bent niet verbonden met een server.", // 42
+" is op IRC", // 43
+" heeft IRC verlaten", // 44
+"Status:", // 45
+"\n"+(char)3+"3*** U praat nu in ", // 46
+"U heeft gewonnen", // 47
+"U heeft verloren", // 48
+"Spelen", // 49
+"Wacht",  // 50
+"Herstarten", // 51
+"Verder", // 52
+"Sleep de boten naar boven en druk op verder.", // 53
+"Check", // 54
+"Bekijk grafiek", // 55
+"Dubbelklik om het item te draaien.", // 56
+"Bestand verzenden", // 57
+"Spelletjes", // 58
+"Verbinding verbroken.", // 59
+"Verbinden...", // 60
+"Wijs de boten toe.", // 61
+"\n"+(char)3+"4DCC Chat connectie verbroken", // 62
+"Ik kan dat bestand niet verzenden.", // 63
+"\n"+(char)3+"3*** je bent gekicked van ", // 64
+" door ", // 65
+"\n"+(char)3+"2*** Verbinding verbroken", // 66
+"http://www.bocazas.com een webchat voor U :)", // 67
+"Taal", // 68
+"Kies uw taal", // 69
+"De verbinding is verbroken, wilt U opnieuw verbinding maken?", // 70
+"Bestand verzonden.", // 71
+"Er is een fout opgetreden tijdens het verzenden van het bestand.", // 72
+"Bestand ontvangen.", // 73
+"Er is een fout opgetreden tijdens het verzenden van het bestand.", // 74
+"Van:", // 75
+"Ontvangen: ", // 76
+"Ontvangen... ", // 77
+"Naar:", // 78
+"Verzonden: ", // 79
+"Verzenden... ", // 80
+"Bestand:", // 81
+"Grootte:", // 82
+"Nickname is in gebruik, kies een andere", // 83
+"Wil chatten", // 84
+"Negeer", // 85
+"Bestand verzenden", // 86
+"Verkenner", // 87
+"Bestand bestaat", // 88
+"Het bestand: ", // 89
+" bestaat reeds", // 90
+"Wat wilt U doen?", // 91
+"Overschrijven", // 92
+"Hervatten", // 93
+"Wil dit bestand naar U verzenden:", // 94
+"Opslaan als:", // 95
+"Opslaan: ", // 96
+"Welk bestand wilt U verzenden?" // 97

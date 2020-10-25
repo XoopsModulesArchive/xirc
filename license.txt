@@ -1,0 +1,38 @@
+// ------------------------------------------------------------ //
+/*
+You may freely use and change this software in both personal and
+commercial areas as stipulated under the LGPL Licence:
+- http://opensource.org/licenses/lgpl-license.php
+
+With the following exeptions:
+
+* Leave credits intact and make the author known where appropriate.
+  This is often the only recompensation free coders get :o)
+
+* If you only change a few lines of the software or make a fix,
+  don't just release your own versions, but contact the author
+  so he can integrate these into the original software, as not to
+  find xxxx different versions floating around on the web.
+  This includes passing language translations to the author so he
+  may incorporate them into the software.
+
+* If you wish to offer the file for download, link to the download
+  page of the file on the authors site, unless of course you made
+  sufficient changes to justify the release of a new version.
+
+// -----------------Non License related:------------------------ //
+
+If you find a this program useful and wish to make a small donation,
+then your more than welcome to do so at: http://www.e-xoops.com
+
+A link back to the author, lil button, etc, would also be welcome :)
+
+Any help is greatly appreciated, as the author isn't even working at
+the moment ..except coding this for you of course :-P Thank's
+
+Cheers, Half-Dead
+- http://www.e-xoops.com
+- http://www.topsite-toplist.com
+(Stop by for other cool stuff)
+*/
+// ------------------------------------------------------------ //

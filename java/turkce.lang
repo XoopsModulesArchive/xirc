@@ -1,0 +1,98 @@
+﻿" Gecersiz Komut", // 0
+"Bilgileri Doldurunuz:", // 1
+"RUMUZ:", // 2
+"Tam Isminiz:", // 3
+"Server:", // 4
+"BAGLAN", // 5
+"IPTAL", // 6
+"Lütfen RUMUZ yada isminizi yaziniz.", // 7
+"RUMUZ yazarken bosluk kullanmayiniz.", // 8
+"Server Seciniz.", // 9
+"\n"+(char)3+"2*** Baglaniyor ", // 10
+"\n"+(char)3+"3DCC Chat Durumu", // 11
+"\nClient: ", // 12
+"\n"+(char)3+"4Chat istegi geldi...", // 13
+"\n"+(char)3+"4DCC Chat Baglantisi Kuruldu", // 14
+"\n"+(char)3+"3Chat yaptigin kisi ", // 15
+"\n"+(char)3+"4Yetki verilmesi bekleniyor...", // 16
+"\nBaglanti Koptu.", // 17
+"Channel (istege bagli):", // 18
+") Kanala Girdi ", // 19
+") kanaldan Ayrildi ", // 20
+" IRC TEN CIKTI (", // 21
+" in yeni RUMUZU ", // 22
+"Giriste Bütün kanallari Listele.", // 23
+"Dosya", // 24
+"Kurulum", // 25
+"CIKIS", // 26
+"Komutlar", // 27
+"YARDIM", // 28
+"Hakkinda", // 29
+" ATILDI.ATAN KISI ", // 30
+" Uyguladi:", // 31
+"Araclar", // 32
+"Bir kanal yazin:", // 33
+"Kanala Gir", // 34
+"Kanallari Listele", // 35
+"Server Degister", // 36
+"Kanala girmek icin 2 kez üzerine tiklayin.", // 37
+"Daha fazla", // 38
+"Kanalda olan kisi.", // 39
+"Yenile", // 40
+"Kanallar", // 41
+"\n"+(char)3+"2*** Servera bagli degilsiniz.", // 42
+" Su an IRC te", // 43
+" IRC ten Ayrildi", // 44
+"Durum:", // 45
+"\n"+(char)3+"3*** Su an bulundugunuz Kanal ", // 46
+"Kazandin", // 47
+"Kaybettin", // 48
+"Oyna", // 49
+"Bekle",  // 50
+"Tekrar Basla", // 51
+"Devam Et", // 52
+"Botlari yukari tasiyin ve DEVAM a tiklayin.", // 53
+"Kontrol", // 54
+"Grafige Bak", // 55
+"Geri dönmek icin cift Tiklayin.", // 56
+"Dosya Gönder", // 57
+"Oyunlar", // 58
+"Baglanti Koptu.", // 59
+"Baglaniyor...", // 60
+"Botlari Belirleyin.", // 61
+"\n"+(char)3+"4DCC Chat Baglantisi Koptu", // 62
+"Bu dosyayi gönderemiyorum.", // 63
+"\n"+(char)3+"3*** Kanaldan Atildin.Seni Atan Kisi ", // 64
+" by ", // 65
+"\n"+(char)3+"2*** Baglanti Koptu", // 66
+"http://www.bocazas.com En iyi web-chat :)", // 67
+"Dil", // 68
+"Bir Dil Seciniz", // 69
+"Baglantiniz Koptu. Tekrar baglanmak ister misiniz?", // 70
+"Dosya Gönderildi.", // 71
+"Dosya gönderiminde Hata Olustu.", // 72
+"Dosya Alindi.", // 73
+"Dosya aliminda hata Olustu.", // 74
+"Dan:", // 75
+"Alindi: ", // 76
+"Aliniyor... ", // 77
+"e:", // 78
+"Gönderildi: ", // 79
+"Gönderiliyor... ", // 80
+"Dosya:", // 81
+"Boyutu:", // 82
+"Sectiginiz RUMUZ Kullanilmakta. Lütfen Degistiriniz", // 83
+"Sizinle Chat yapmak istiyor", // 84
+"Reddet", // 85
+"Dosya Gönder", // 86
+"Gozat", // 87
+"Dosya var", // 88
+"Dosya: ", // 89
+" Bu dosya zaten var", // 90
+"Ne yapmak istiyorsunuz?", // 91
+"Üzerine Yaz", // 92
+"Devam Et", // 93
+"Bu dosyayi size göndermek istiyor:", // 94
+"Farkli Kaydet:", // 95
+"Kaydet: ", // 96
+"Hangi Dosyayi göndermek istiyorsunuz?" // 97

@@ -1,0 +1,98 @@
+﻿"Niezrozumiałe polecenie", // 0 
+"Podaj następujące dane:", // 1 
+"Nick:", // 2 
+"Pełne imię:", // 3 
+"Serwer:", // 4 
+"OK", // 5 
+"Przerwij", // 6 
+"Proszę podaj twój Nick i prawdziwe imię.", // 7 
+"Nie używaj spacji w Nicku.", // 8 
+"Wybierz serwer.", // 9 
+"\n"+(char)3+"2*** Połączony z ", // 10 
+"\n"+(char)3+"3DCC Sesja Chata", // 11 
+"\nKlient: ", // 12 
+"\n"+(char)3+"4Osiagnolem połączenie z Chatem...", // 13 
+"\n"+(char)3+"4DCC Ustabilizowałem połączenie z Chatem", // 14 
+"\n"+(char)3+"3Szerokosc okna ", // 15 
+"\n"+(char)3+"4Stabilizuje...", // 16 
+"\nPołączenie przerwane.", // 17 
+"Kanał (Opcja):", // 18 
+") przyłączył się ", // 19 
+") opuścił ", // 20 
+" wyszedł z IRCa (", // 21 
+" zmienił nick na ", // 22 
+"Pokaz kanały przy wejściu.", // 23 
+"Plik", // 24 
+"Ustawienia", // 25 
+"Wyjście", // 26 
+"Komendy", // 27 
+"Pomoc", // 28 
+"Info", // 29 
+" został wykopany przez ", // 30 
+" ustawił mod:", // 31 
+"Narzędzia", // 32 
+"Określ kanał:", // 33 
+"Dołącz od kanału", // 34 
+"Wypisz kanały", // 35 
+"Zmień serwer", // 36 
+"Kliknij dwa razy na nazwie kanału by wejść.", // 37 
+"Więcej niż", // 38 
+"ludzi na kanale.", // 39 
+"Odśwież", // 40 
+"Kanały", // 41 
+"\n"+(char)3+"2*** Nie jesteś połączony z kanałem.", // 42 
+" jest na IRCu", // 43 
+" opuścił IRCa", // 44 
+"Status:", // 45 
+"\n"+(char)3+"3*** Przebywasz teraz w ", // 46 
+"Wygrałeś", // 47 
+"Przegrałeś", // 48 
+"Graj", // 49 
+"Czekaj", // 50 
+"Restart", // 51 
+"Kontynuuj", // 52 
+"Przeciągnij łódkę na gorę i wciśnij dalej.", // 53 
+"Sprawdź", // 54 
+"Pokaz grafikę", // 55 
+"Kliknij dwa razy by odwrócić .", // 56 
+"Prześlij plik", // 57 
+"Gry", // 58 
+"Połączenie zerwane.", // 59 
+"Łącze...", // 60 
+"Wyznacz obiekty.", // 61 
+"\n"+(char)3+"4DCC Zamknięte połączenie z Chatem", // 62 
+"Nie możesz przesłać tego pliku.", // 63 
+"\n"+(char)3+"3*** zostałeś wykopany z ", // 64 
+" przez ", // 65 
+"\n"+(char)3+"2*** Rozłączony", // 66 
+"http://www.bocazas.com webchat dla Ciebie :)", // 67 
+"Język", // 68 
+"Wybierz język", // 69 
+"Połączenie zostało zerwane, chcesz połączyć się ponownie ?", // 70 
+"Plik przesłany.", // 71 
+"Błąd przy wysyłaniu pliku.", // 72 
+"Plik odebrany.", // 73 
+"Błąd przy odbieraniu pliku.", // 74 
+"Od:", // 75 
+"Doręczony: ", // 76 
+"Doręczam... ", // 77 
+"Do:", // 78 
+"Wyślij: ", // 79 
+"Wysyłam... ", // 80 
+"Plik:", // 81 
+"Rozmiar:", // 82 
+"Ten Nick jest w użyciu, proszę określ inny", // 83 
+"Chcesz pochatowac", // 84 
+"Ignoruj", // 85 
+"Wyślij plik", // 86 
+"Przeglądarka", // 87 
+"Taki plik istnieje", // 88 
+"Plik: ", // 89 
+" już istnieje", // 90 
+"Co chcesz robić ?", // 91 
+"Czy chcesz zastąpić istniejący plik", // 92 
+"Ponów", // 93 
+"Chcesz przesłać ten plik:", // 94 
+"Zapisz jako:", // 95 
+"Zapisz: ", // 96 
+"Wybierz plik który chcesz przesłać" // 97 

@@ -1,0 +1,98 @@
+﻿" Comando sconosciuto", // 0
+"Introdurre la seguente informazione:", // 1
+"Nick:", // 2
+"Nome:", // 3
+"Server:", // 4
+"Accettare", // 5
+"Annullare", // 6
+"La prego d'introdurre il suo nome e nick.", // 7
+"Il nick non deve avere degli spazi bianchi.", // 8
+"Selezionare un server.", // 9
+"\n"+(char)3+"2*** Connettando a ", // 10
+"\n"+(char)3+"3Sesion DCC Chat", // 11
+"\nDa: ", // 12
+"\n"+(char)3+"4Connessione in negoziazione...", // 13
+"\n"+(char)3+"4Connessione DCC Chat riuscita", // 14
+"\n"+(char)3+"3Chat con ", // 15
+"\n"+(char)3+"4In attesa di risposta...", // 16
+"\nNon si è potuto connettere.", // 17
+"Stanza (Opzionale):", // 18
+") Lei è entrato a ", // 19
+") Lei è uscito da ", // 20
+" è uscito da irc(", // 21
+" è adesso ", // 22
+"Vedere la lista di tutte le stanze quando ci si entra.", // 23
+"file", // 24
+"Configurazione", // 25
+"Uscire", // 26
+"Comandi", // 27
+"Aiuto", // 28
+"Quanto riguarda a Bocazas", // 29
+" Lei è stato cacciato via da ", // 30
+" cambia il modo a:", // 31
+"Tools", // 32
+"Clicca su d'una stanza:", // 33
+"Entrare alla stanza", // 34
+"Lista delle stanze", // 35
+"Cambiare server", // 36
+"Doppio click su d'una stanza per entrarci.", // 37
+"Più di", // 38
+"Utenti della Stanza.", // 39
+"Attualizzare", // 40
+"Stanze", // 41
+"\n"+(char)3+"2*** Lei non é connesso a un server.", // 42
+" Lei è in IRC", // 43
+" Lei è uscito da IRC", // 44
+"Stato:", // 45
+"\n"+(char)3+"3*** Entra in ", // 46
+"Hai vinto", // 47
+"Hai Perso", // 48
+"Tocca a te", // 49
+"Aspetti", // 50
+"Ricominciare", // 51
+"Continuare", // 52
+"Sistemare le navi qui su e cliccare su continuare.", // 53
+"Scacco", // 54
+"Vedere Grafico", // 55
+"Doppio click per farli girare.", // 56
+"Mandare File", // 57
+"Giochi", // 58
+"Non c'è più connessione.", // 59
+"Connettando...", // 60
+"Sistemare le navi.", // 61
+"\n"+(char)3+"4Connessione DCC Chat chiusa.", // 62
+"Non posso mandare questo file.", // 63
+"\n"+(char)3+"3*** cacciato via da ", // 64
+" per ", // 65
+"\n"+(char)3+"2*** Sconnesso", // 66
+"http://www.bocazas.com un webchat per te :)", // 67
+"Lingua", // 68
+"Scegli una Lingua", // 69
+"S'è persa la conezione, desidera riconnettare?", // 70
+"Fichero enviado.", // 71
+"Error enviando fichero.", // 72
+"Fichero recibido.", // 73
+"Error recibiendo fichero.", // 74
+"De:", // 75
+"Recibido: ", // 76
+"Recibiendo... ", // 77
+"Para:", // 78
+"Enviado: ", // 79
+"Enviando... ", // 80
+"Fichero:", // 81
+"Tamaño:", // 82
+"Nick ocupado, cambie su nick", // 83
+"Quiere chatear", // 84
+"Ignorar", // 85
+"Enviar Fichero", // 86
+"Buscar", // 87
+"Fichero Existe", // 88
+"El fichero: ", // 89
+" ya existe", // 90
+"¿Que desea hacer?", // 91
+"Sobreescribir", // 92
+"Resumir", // 93
+"Quiere enviarte este fichero:", // 94
+"Grabar como:", // 95
+"Grabar: ", // 96
+"¿Que fichero desea enviar?" // 97

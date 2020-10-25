@@ -1,0 +1,98 @@
+﻿" Comando desconocido", // 0
+"Introduzca la siguiente informacion:", // 1
+"Nick:", // 2
+"Nombre:", // 3
+"Servidor:", // 4
+"Aceptar", // 5
+"Cancelar", // 6
+"Por favor, introduzca su nombre y nick.", // 7
+"No utilice espacios en su nick.", // 8
+"Seleccione un servidor.", // 9
+"\n"+(char)3+"2*** Conectando (tenga paciencia) a ", // 10
+"\n"+(char)3+"3Sesion DCC Chat", // 11
+"\nDesde: ", // 12
+"\n"+(char)3+"4Negociando conexion...", // 13
+"\n"+(char)3+"4Conexion DCC Chat realizada", // 14
+"\n"+(char)3+"3Chat con ", // 15
+"\n"+(char)3+"4Esperando respuesta...", // 16
+"\nNo se pudo conectar.", // 17
+"Canal (Opcional):", // 18
+") ha entrado en ", // 19
+") ha salido de ", // 20
+" ha salido del IRC (", // 21
+" es ahora ", // 22
+"Listar todos los canales al entrar.", // 23
+"Archivo", // 24
+"Configuracion", // 25
+"Salir", // 26
+"Comandos", // 27
+"Ayuda", // 28
+"Sobre Bocazas", // 29
+" fue expulsado por ", // 30
+" pone modo:", // 31
+"Utilidades", // 32
+"Teclee un canal:", // 33
+"Entrar al canal", // 34
+"Listar Canales", // 35
+"Cambiar de Servidor", // 36
+"Haz click doble en un canal para entrar.", // 37
+"Mas de", // 38
+"personas en el canal.", // 39
+"Refrescar", // 40
+"Canales", // 41
+"\n"+(char)3+"2*** No esta conectado al servidor.", // 42
+" esta en IRC", // 43
+" ha salido del IRC", // 44
+"Estado:", // 45
+"\n"+(char)3+"3*** Entro en ", // 46
+"Tu Ganas", // 47
+"Has Perdido", // 48
+"Su Turno", // 49
+"Espere", // 50
+"Reempezar", // 51
+"Continuar", // 52
+"Coloque los barcos arriba y pulse continuar.", // 53
+"Jaque", // 54
+"Ver Grafico", // 55
+"Haga click doble para girarlos.", // 56
+"Enviar Fichero", // 57
+"Juegos", // 58
+"Se perdio la conexion.", // 59
+"Conectando...", // 60
+"Coloque los barcos.", // 61
+"\n"+(char)3+"4Conexion DCC Chat cerrada.", // 62
+"No puedo enviar ese fichero.", // 63
+"\n"+(char)3+"3*** expulsado de ", // 64
+" por ", // 65
+"\n"+(char)3+"2*** Desconectado",  // 66
+"http://www.bocazas.com un webchat para ti :)", // 67
+"Idioma", // 68
+"Seleccione un Idioma", // 69
+"Se ha perdido la conexion, ¿Desea reconectar?", // 70
+"Fichero enviado.", // 71
+"Error enviando fichero.", // 72
+"Fichero recibido.", // 73
+"Error recibiendo fichero.", // 74
+"De:", // 75
+"Recibido: ", // 76
+"Recibiendo... ", // 77
+"Para:", // 78
+"Enviado: ", // 79
+"Enviando... ", // 80
+"Fichero:", // 81
+"Tamaño:", // 82
+"Nick ocupado, cambie su nick", // 83
+"Quiere chatear", // 84
+"Ignorar", // 85
+"Enviar Fichero", // 86
+"Buscar", // 87
+"Fichero Existe", // 88
+"El fichero: ", // 89
+" ya existe", // 90
+"¿Que desea hacer?", // 91
+"Sobreescribir", // 92
+"Resumir", // 93
+"Quiere enviarte este fichero:", // 94
+"Grabar como:", // 95
+"Grabar: ", // 96
+"¿Que fichero desea enviar?" // 97

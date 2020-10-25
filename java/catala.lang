@@ -1,0 +1,98 @@
+﻿" Comandament desconegut", // 0
+"Introdueixi la següent informació:", // 1
+"Alias (Nick):", // 2
+"Nom:", // 3
+"Servidor:", // 4
+"Aceptar", // 5
+"Cancelar", // 6
+"Sisplau, introdueixi el seu nom y alias.", // 7
+"No utilitzi espais en el seu alias.", // 8
+"Seleccioni un servidor", // 9
+"\n"+(char)3+"2*** Connectant a ", // 10
+"\n"+(char)3+"3Sessió DCC Xat", // 11
+"\nDes de: ", // 12
+"\n"+(char)3+"4Negociant connexió...", // 13
+"\n"+(char)3+"4Connexió DCC Xat realitzada", // 14
+"\n"+(char)3+"3Xat amb ", // 15
+"\n"+(char)3+"4Esperant resposta...", // 16
+"\nNo es va poder connectar.", // 17
+"Canal (Opcional):", // 18
+") ha entrat en ", // 19
+") ha sortit de ", // 20
+" ha sortit de l'IRC (", // 21
+" es ara ", // 22
+"Mostrar tots els canals en entrar.", // 23
+"Fitxer", // 24
+"Configuració", // 25
+"Sortir", // 26
+"Comandaments", // 27
+"Ajuda", // 28
+"Sobre Bocazas", // 29
+" va ser expulsat per ", // 30
+" posa mode:", // 31
+"Utilitats", // 32
+"Escrigui un canal:", // 33
+"Entrar al canal", // 34
+"Mostrar Canals", // 35
+"Cambiar de Servidor", // 36
+"Feu doble clic sobre un canal per entrar-hi.", // 37
+"Més de", // 38
+"persones en el canal.", // 39
+"Actualitzar", // 40
+"Canals", // 41
+"\n"+(char)3+"2*** No està connectat al servidor.", // 42
+" està a l'IRC", // 43
+" ha sortit de l'IRC", // 44
+"Estat:", // 45
+"\n"+(char)3+"3*** Entro a ", // 46
+"Tu guanyes", // 47
+"Has perdut", // 48
+"El seu torn", // 49
+"Esperi", // 50
+"Comença", // 51
+"Continuar", // 52
+"Col·loqui els vaixells a dalt y pulsi continuar.", // 53
+"Escac", // 54
+"Veure gràfic", // 55
+"Fasi doble clic per girar-los.", // 56
+"Enviar fitxer", // 57
+"Jocs", // 58
+"Es va perdre la connexió.", // 59
+"Connectan...", // 60
+"Col·loqui els vaixells.", // 61
+"\n"+(char)3+"4Connexió DCC Xat tancada.", // 62
+"No puc enviar aquest fitxer.\n", // 63
+"\n"+(char)3+"3*** expulsado de ", // 64
+" por ", // 65
+"\n"+(char)3+"2*** Desconectado", // 66
+"http://www.bocazas.com un webchat para ti :)", // 67
+"Idioma", // 68
+"Seleccione un Idioma", // 69
+"Se ha perdido la conexion, ¿Desea reconectar?", // 70
+"Fichero enviado.", // 71
+"Error enviando fichero.", // 72
+"Fichero recibido.", // 73
+"Error recibiendo fichero.", // 74
+"De:", // 75
+"Recibido: ", // 76
+"Recibiendo... ", // 77
+"Para:", // 78
+"Enviado: ", // 79
+"Enviando... ", // 80
+"Fichero:", // 81
+"Tamaño:", // 82
+"Nick ocupado, cambie su nick", // 83
+"Quiere chatear", // 84
+"Ignorar", // 85
+"Enviar Fichero", // 86
+"Buscar", // 87
+"Fichero Existe", // 88
+"El fichero: ", // 89
+" ya existe", // 90
+"¿Que desea hacer?", // 91
+"Sobreescribir", // 92
+"Resumir", // 93
+"Quiere enviarte este fichero:", // 94
+"Grabar como:", // 95
+"Grabar: ", // 96
+"¿Que fichero desea enviar?" // 97

@@ -1,0 +1,98 @@
+﻿" Unbekannter Befehl", // 0
+"Bitte die folgende Information eingeben:", // 1
+"Spitzname/Nickname:", // 2
+"Voller Name:", // 3
+"Server:", // 4
+"OK", // 5
+"Abbrechen", // 6
+"Bitte Ihren Namen und Spitznamen eingeben.", // 7
+"Leerzeichen im Spitznamen sind nicht erlaubt.", // 8
+"Waehle einen Server.", // 9
+"\n"+(char)3+"2*** Verbinde mit ", // 10
+"\n"+(char)3+"3DCC Chat Sitzung", // 11
+"\nClient: ", // 12
+"\n"+(char)3+"4Akzeptiere Chat Anfrage...", // 13
+"\n"+(char)3+"4DCC Chat Verbindung hergestellt", // 14
+"\n"+(char)3+"3Chat mit ", // 15
+"\n"+(char)3+"4Warte auf Bestaetigung...", // 16
+"\nVerbindung verweigert.", // 17
+"Channel (optional):", // 18
+") ist eingetreten in", // 19
+") verlaesst ", // 20
+" has quit IRC (", // 21
+" ist nun bekannt als ", // 22
+"Liste alle Kanaele beim Eintritt.", // 23
+"Datei", // 24
+"Setup", // 25
+"Beenden", // 26
+"Befehle", // 27
+"Hilfe", // 28
+"Ueber", // 29
+" wurde gekickt von ", // 30
+" setzt Modus auf:", // 31
+"Tools", // 32
+"Gebe ein Kanal ein:", // 33
+"Trete in Channel ein", // 34
+"Liste Channels", // 35
+"Wechsel den Server", // 36
+"Doppelklick um in den Kanal einzutreten.", // 37
+"Mehr als", // 38
+"Personen im Kanal.", // 39
+"Aktualisieren", // 40
+"Channels", // 41
+"\n"+(char)3+"2*** Du bist nicht mit dem Server verbunden.", // 42
+" ist im IRC", // 43
+" verlaesst den IRC", // 44
+"Status:", // 45
+"\n"+(char)3+"3*** Du bist nun in ", // 46
+"Du gewinnst", // 47
+"Du verlierst", // 48
+"Spielen", // 49
+"Warten",  // 50
+"Neustarten", // 51
+"Weiter", // 52
+"Ziehe die Schiffe nach oben und druecke Weiter.", // 53
+"Pruefen", // 54
+"Grafik anzeigen", // 55
+"Doppelklick um sie umzudrehen.", // 56
+"Sende Datei", // 57
+"Spiele", // 58
+"Verbindung verloren.", // 59
+"Verbinde...", // 60
+"Stelle die Schiffe auf.", // 61
+"\n"+(char)3+"4DCC Chat Verbindung verloren", // 62
+"Kann diese Datei nicht verschicken.", // 63
+"\n"+(char)3+"3*** du wurdest gekickt von  ", // 64
+" von ", // 65
+"\n"+(char)3+"2*** Verbindung getrennt", // 66
+"http://www.bocazas.com ein webchat fuer dich :)", // 67
+"Sprache", // 68
+"Waehle deine Sprache", // 69
+"Deine Verbindung wurde getrennt, moechtest du dich wieder verbinden?", // 70
+"Datei verschickt.", // 71
+"Fehler beim Dateiversand.", // 72
+"Datei empfangen.", // 73
+"Fehler beim Dateiempfang.", // 74
+"Von:", // 75
+"Empfangen: ", // 76
+"Empfange... ", // 77
+"An:", // 78
+"Schicke: ", // 79
+"Uebermittle... ", // 80
+"Datei:", // 81
+"Groesse:", // 82
+"Spitzname bereits vergeben, aendere deinen Spitznamen", // 83
+"Moechte chatten", // 84
+"Ignoriere", // 85
+"Schicke Datei", // 86
+"Browser", // 87
+"Datei existiert", // 88
+"Die Datei: ", // 89
+" existiert bereits", // 90
+"Was moechtest du tun?", // 91
+"Ueberschreiben", // 92
+"Anhaengen", // 93
+"Moechte dir diese Datei schicken:", // 94
+"Speichern unter:", // 95
+"Speichern: ", // 96
+"Welche Datei moechtest du verschicken?" // 97

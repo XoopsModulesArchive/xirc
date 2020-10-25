@@ -1,0 +1,98 @@
+﻿" Unknown command", // 0
+"Enter the following information:", // 1
+"Nickname:", // 2
+"Full name:", // 3
+"Server:", // 4
+"OK", // 5
+"Cancel", // 6
+"Please, enter your nickname and full name.", // 7
+"Do not type spaces in your nickname.", // 8
+"Select a server.", // 9
+"\n"+(char)3+"2*** Connecting to ", // 10
+"\n"+(char)3+"3DCC Chat session", // 11
+"\nClient: ", // 12
+"\n"+(char)3+"4Acknowledging chat request...", // 13
+"\n"+(char)3+"4DCC Chat connection established", // 14
+"\n"+(char)3+"3Chat with ", // 15
+"\n"+(char)3+"4Waiting for acknowledgement...", // 16
+"\nConnection refused.", // 17
+"Channel (Optional):", // 18
+") has joined ", // 19
+") has left ", // 20
+" has quit IRC (", // 21
+" is now known as ", // 22
+"List all channels when entering.", // 23
+"File", // 24
+"Setup", // 25
+"Exit", // 26
+"Commands", // 27
+"Help", // 28
+"About", // 29
+" was kicked by ", // 30
+" sets mode:", // 31
+"Tools", // 32
+"Type a channel:", // 33
+"Join Channel", // 34
+"List Channels", // 35
+"Change Server", // 36
+"Double click on a channel to enter.", // 37
+"More than", // 38
+"people on the channel.", // 39
+"Refresh", // 40
+"Channels", // 41
+"\n"+(char)3+"2*** You are not connected to the server.", // 42
+" is on IRC", // 43
+" has left IRC", // 44
+"Status:", // 45
+"\n"+(char)3+"3*** Now talking in ", // 46
+"You Win", // 47
+"You Lose", // 48
+"Play", // 49
+"Wait",  // 50
+"Restart", // 51
+"Continue", // 52
+"Drag the boats to the top and press continue.", // 53
+"Check", // 54
+"View Graphic", // 55
+"Double click to turn them.", // 56
+"Send File", // 57
+"Games", // 58
+"Connection lost.", // 59
+"Connecting...", // 60
+"Allocate the boats.", // 61
+"\n"+(char)3+"4DCC Chat connection closed", // 62
+"I can't send that file.", // 63
+"\n"+(char)3+"3*** you were kicked from ", // 64
+" by ", // 65
+"\n"+(char)3+"2*** Disconnected", // 66
+"http://www.bocazas.com a webchat for you :)", // 67
+"Language", // 68
+"Choose a Language", // 69
+"You have been disconnected, would you like to reconnect?", // 70
+"File sent.", // 71
+"Error sending file.", // 72
+"File received.", // 73
+"Error receiving file.", // 74
+"From:", // 75
+"Received: ", // 76
+"Receiving... ", // 77
+"To:", // 78
+"Sent: ", // 79
+"Sending... ", // 80
+"File:", // 81
+"Size:", // 82
+"Nickname taken, change your nick", // 83
+"Wants to chat", // 84
+"Ignore", // 85
+"Send File", // 86
+"Browser", // 87
+"File Exists", // 88
+"The file: ", // 89
+" already exists", // 90
+"What would you like to do?", // 91
+"Overwrite", // 92
+"Resume", // 93
+"Wants to send you this file:", // 94
+"Save as:", // 95
+"Save: ", // 96
+"Which file would you like to send?" // 97
